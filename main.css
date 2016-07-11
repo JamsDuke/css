@@ -1,3 +1,10 @@
 h1 {
   color: red;
+  font-family: galada;
+  font-weight: normal;
+}
+
+p {
+  color: blue;
+  font-family: oswald;
 }
